@@ -1,0 +1,72 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:ee7ee496-421d-4dcd-95f9-68c49b6b65a0",
+      "icon": "lucide-goal",
+      "name": "New Quest",
+      "mode": "any",
+      "color": "#788cff"
+    },
+    {
+      "id": "quickadd:choice:28b7ada0-574a-42a9-8d44-1f12a6911ae0",
+      "icon": "lucide-box",
+      "name": "New Template",
+      "mode": "any",
+      "color": "#50c8ff"
+    },
+    {
+      "id": "quickadd:choice:2fc2aa77-b9cc-4c77-abc6-0ae09da5c485",
+      "icon": "lucide-gem",
+      "name": "New Item",
+      "mode": "any",
+      "color": "#b48cff"
+    },
+    {
+      "id": "quickadd:choice:f0eba58d-2f7b-4643-a0a0-0d11d1f92ebd",
+      "icon": "lucide-package-open",
+      "name": "New Container",
+      "mode": "any",
+      "color": "#b48cff"
+    },
+    {
+      "id": "quickadd:choice:628243ee-df3f-4079-ad48-5f133bfd24dc",
+      "icon": "lucide-door-open",
+      "name": "New Room",
+      "mode": "any",
+      "color": "#b48cff"
+    },
+    {
+      "id": "quickadd:choice:123c5505-5bba-4412-9fea-f004d0c00150",
+      "icon": "lucide-landmark",
+      "name": "New Building",
+      "mode": "any",
+      "color": "#b48cff"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,9 @@
+🕯️ pending
+✨ transient
+🎒 stored
+🪑 built-in
+❓ missing
+🗑️ discarded
+💰 sold
+🥷 stolen
+📜 archived

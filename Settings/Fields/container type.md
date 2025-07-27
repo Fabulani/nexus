@@ -1,0 +1,9 @@
+cabinet
+drawer
+shelf
+locker
+wardrobe
+sofa
+box
+luggage
+bag

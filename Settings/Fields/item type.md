@@ -1,0 +1,10 @@
+consumable
+equipment
+resource
+junk
+key
+collectible
+document
+gift
+container
+misc

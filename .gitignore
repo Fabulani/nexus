@@ -1,0 +1,18 @@
+# OS specific junk
+.DS_Store
+Thumbs.db
+*trash/
+
+# Obsidian stuff
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/obsidian-sync.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+.obsidian/graph.json
+
+
+# Plugin stuff
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/styles.css
