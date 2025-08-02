@@ -5,7 +5,6 @@ A gamified framework for tracking projects (quests) and inventory.
 Check the `Tutorial` folder for guidance:
 - [Usage](./Tutorial/Usage.md)
 - [Settings](./Tutorial/Settings.md)
-- [To-dos](./Tutorial/To-do.md)
 - [Implementation](./Tutorial/Implementation.md)
 
 This repository contains example `.md` files for the framework, as well as plugin settings for the necessary plugins. Plugin versions used can be checked in their manifest file inside `.obsidian/plugins/**/manifest.json`.
