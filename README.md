@@ -2,12 +2,25 @@
 
 A gamified framework for tracking projects (quests) and inventory.
 
-Check the `Tutorial` folder for guidance:
+## Install
+
+The only pre-requisite is [Obsidian](https://obsidian.md/download).
+
+There are two options:
+- For the latest stable release, head over to [Releases](https://github.com/Fabulani/nexus/releases). Download the source code either in `.zip` or `.tar.gz` format.
+- For the unstable release, where I'm pushing updates before the next stable release, click on the `< > Code` button and either clone the repo or download the ZIP.
+
+After downloading the files:
+1. Extract contents into a folder. 
+2. Open Obsidian.
+3. Go to `Manage vaults...` > `Open folder as vault` and select the extracted folder.
+
+Select `Trust author and enable plugins` for the full experience, or `Browse vault in Restricted Mode` to check it out without all the plugins. Always be careful when enabling plugins from third-parties!
+
+And that's it! Check the `Tutorial` folder for further guidance:
 - [Usage](./Tutorial/Usage.md)
 - [Settings](./Tutorial/Settings.md)
 - [Implementation](./Tutorial/Implementation.md)
-
-This repository contains example `.md` files for the framework, as well as plugin settings for the necessary plugins. Plugin versions used can be checked in their manifest file inside `.obsidian/plugins/**/manifest.json`.
 
 > [!NOTE]
 > This version is a proof-of-concept.
