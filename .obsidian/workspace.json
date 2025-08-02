@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "598265bfa2b59493",
+    "type": "split",
+    "children": [
+      {
+        "id": "21df4a76a33e31b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d668da4a548832c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6947eedc65236f00",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc141fa054bdaf34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2628f888f124ab62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa84fb491a473c58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3593c3f42f94ee59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f4998d986903945c",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f429b07c842998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fced4cc42f591cf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_settings/fields/quest type.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for quest type"
+            }
+          },
+          {
+            "id": "c8ec02db51a260b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_settings/fields/quest type.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from quest type"
+            }
+          },
+          {
+            "id": "513a29a63af0e467",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e7dd877a9228a30f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inventory/4 items/01 kimono.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 kimono"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 530.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:New Quest": false,
+      "cmdr:New Template": false,
+      "cmdr:New Item": false,
+      "cmdr:New Container": false,
+      "cmdr:New Room": false,
+      "cmdr:New Building": false
+    }
+  },
+  "active": "d668da4a548832c8",
+  "lastOpenFiles": [
+    "README.md.md",
+    "Tutorial/Implementation.md",
+    "Tutorial/Usage.md",
+    "Tutorial/Settings.md",
+    "Tutorial/To-do.md",
+    "Status/Inventory log.md",
+    "Status/Quest log.md",
+    "Quests/Plant chillis.md",
+    "Inventory/Containers/Shelf.md",
+    "Inventory/Items/TV.md",
+    "Settings/Fields/item type.md",
+    "Settings/Templates/Global template.md",
+    "Settings/Classes/Item.md",
+    "Settings/Classes/Quest.md",
+    "Inventory/Rooms/Bedroom.md",
+    "Inventory/Rooms/Kitchen.md",
+    "Inventory/Rooms/Living room.md",
+    "Inventory/Items/Kimono.md",
+    "Inventory/Items/Alsace.md",
+    "Inventory/Items/Arkham Horror.md",
+    "Inventory/Items/That thing that always goes missing.md",
+    "Inventory/Containers/Wardrobe.md",
+    "Inventory/Containers/Drawer.md",
+    "Inventory/Buildings/My apartment.md",
+    "Quests/Plan a trip to Japan 2026.md",
+    "Quests/C++ Zero to Hero course.md",
+    "_settings/templates",
+    "_settings",
+    "_settings/scripts/updateInsideOfFields.js",
+    "_settings/scripts",
+    "Tutorial/Images",
+    "Status",
+    "Tutorial",
+    "Inventory/Rooms",
+    "Settings/Classes",
+    "Settings/Fields"
+  ]
+}
