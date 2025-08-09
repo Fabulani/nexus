@@ -19,9 +19,9 @@ fields:
     options: {}
     path: ""
     id: G7C6ia
-version: "2.16"
+version: "2.17"
 limit: 20
-mapWithTag: true
+mapWithTag: false
 icon: layers-2
 tagNames: 
 filesPaths: 
