@@ -10,7 +10,11 @@ Always use the colored buttons in the ribbon (left-side bar). There is a button 
 
 For Quests and Inventory, set fields in the front matter as you like. You can also add additional content in the note body.
 
-Creating new templates involves also creating a new class. See below.
+## Graph View
+
+The Inventory has been structured such that the Obsidian Graph View can automatically generate a nice hierarchical view of your inventory. Every item points upwards to its container, such that they are connected in the graph. This allows you to traverse the graph and see from a glance where everything is.
+
+![Graph View inventory](./Images/Graph-view-screenshot.png)
 
 ## Creating new classes
 
