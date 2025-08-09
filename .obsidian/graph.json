@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Inventory  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Quests  ",
+      "color": {
+        "a": 1,
+        "rgb": 7900415
+      }
+    },
+    {
+      "query": "path:Settings  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775501
+      }
+    },
+    {
+      "query": "path:Status  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Tutorial",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.05,
   "repelStrength": 12,
   "linkStrength": 0.85,
   "linkDistance": 100,
-  "scale": 0.5156847362013472,
+  "scale": 0.4112128308343546,
   "close": false
 }
