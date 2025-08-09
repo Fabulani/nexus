@@ -3,11 +3,11 @@ tags:
   - quest
 class: Quest
 date_created: 2025-07-27
-description: 
+description: Publish the Nexus project to GitHub!
 type: misc
-location: 
-link: 
-status: 🕯️ pending
+location: GitHub
+link: https://github.com/Fabulani/nexus
+status: 🏆 completed
 priority: 5 ⚪
 ---
 
