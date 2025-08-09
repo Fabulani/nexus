@@ -2,6 +2,7 @@
 
 A gamified framework for tracking projects (quests) and inventory.
 
+![[Publish to GitHub quest screenshot.png]]
 ## Install
 
 The only pre-requisite is [Obsidian](https://obsidian.md/download).
@@ -31,3 +32,26 @@ And that's it! Check the `Tutorial` folder for further guidance:
 - quests: too many ideas, projects, plans, etc. Can't keep track of them all.
 
 The inventory is not designed for very short-term or consumable items, e.g., a kitchen pantry inventory.
+
+## Screenshots
+
+![[Item screenshot.png]]
+
+Fig: an Item.
+
+![[Container screenshot.png]]
+
+Fig: a Container.
+
+![[Cpp Quest screenshot.png]]
+
+Fig: another Quest.
+
+![[Quest log screenshot.png]]
+
+Fig: the Quest Log
+
+![[Graph view screenshot.png]]
+
+Fig: inventory structure generates a nice graph view.
+
